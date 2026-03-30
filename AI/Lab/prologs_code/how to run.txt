@@ -1,0 +1,4 @@
+command:
+1. swipl
+2. [file_name]. without extention
+3. ?- hill_climb(a).
