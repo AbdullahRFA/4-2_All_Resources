@@ -1,0 +1,23 @@
+📄 Section A
+
+1. Write a program using PROLOG or LISP for addition and multiplication of two numbers.
+2. Write a program using PROLOG or LISP for finding the sum of all numbers in a given list.
+3. Write a program using PROLOG or LISP for comparing character and string.
+4. Write a program using PROLOG or LISP to count the number of elements in a list.
+5. Write a program using PROLOG or LISP to check whether an element is a member of a list.
+6. Write a program using PROLOG or LISP to reverse a list.
+7. Write a program using PROLOG or LISP to find out Union and Intersection of two lists.
+8. Write a program using PROLOG or LISP to determine the Greatest Common Divisor of two positive integer numbers.
+
+⸻
+
+📄 Section B
+
+1. Write a program using PROLOG or LISP to solve 4-queen problem.
+2. Write a program using PROLOG or LISP to solve 8-puzzle problem.
+3. Write a program using PROLOG or LISP to solve Tower of Hanoi problem.
+4. Write a program using PROLOG or LISP to solve Traveling Salesman problem.
+5. Write a program using PROLOG or LISP to implement Depth First Search.
+6. Write a program using PROLOG or LISP to implement Breadth First Search.
+7. Write a program using PROLOG or LISP to implement Hill Climbing Algorithm.
+8. Write a program using PROLOG or LISP to show Tic-tac-toe game for O and X.
