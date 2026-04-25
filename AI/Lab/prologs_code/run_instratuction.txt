@@ -1,0 +1,10 @@
+1. swipl
+2. [fileName without .pl]
+3. run query with parameter if exist
+4. press control + d to exit program
+
+exaple:
+
+1. swipl
+2. [dfs].
+3. dfs(a).

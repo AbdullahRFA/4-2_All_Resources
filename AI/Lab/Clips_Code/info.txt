@@ -1,0 +1,134 @@
+Here are the important CLIPS IDE commands you need (run, reset, clear, etc.) — clean and exam-ready 👇
+
+
+
+
+Command <--------> কাজ
+
+(clear) ------>সব clean
+
+(load)-------->file load
+
+(reset)------->initialize
+
+(run)--------->execute
+
+
+
+
+
+
+
+
+
+
+
+
+⸻
+
+🧠 Basic CLIPS Commands
+
+✅ 1. Load file
+
+(load "file.clp")
+
+👉 Your code file load করবে
+
+⸻
+
+✅ 2. Reset
+
+(reset)
+
+👉 Facts initialize করে
+👉 (deffacts) activate হয়
+
+⸻
+
+✅ 3. Run
+
+(run)
+
+👉 Rules execute করে
+
+⸻
+
+✅ 4. Clear (Very Important)
+
+(clear)
+
+👉 Memory clean করে
+👉 সব rules, facts delete হয়
+
+⸻
+
+🔁 Full Workflow (Step-by-step)
+
+(clear)
+(load "file.clp")
+(reset)
+(run)
+
+👉 This is the standard sequence 🔥
+
+⸻
+
+🧹 Extra Useful Commands
+
+🔍 Show facts
+
+(facts)
+
+⸻
+
+🔍 Show rules
+
+(rules)
+
+⸻
+
+❌ Stop execution
+
+(halt)
+
+⸻
+
+➕ Add fact manually
+
+(assert (animal cat))
+
+⸻
+
+🎯 Example Full Session
+
+(clear)
+(load "example.clp")
+(reset)
+(run)
+(facts)
+
+⸻
+
+🧠 Easy Way to Remember
+
+👉 Clear → Load → Reset → Run
+
+⸻
+
+💬 Final Answer
+
+Command	কাজ
+(clear)	সব clean
+(load)	file load
+(reset)	initialize
+(run)	execute
+
+⸻
+
+If you want, I can:
+
+👉 Give full CLIPS programs (exam ready)
+👉 Explain rules & facts concept
+👉 Solve your CLIPS questions
+
+Just tell 👍
