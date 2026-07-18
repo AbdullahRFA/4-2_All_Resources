@@ -1,0 +1,30 @@
+@relation ThesisHub_Performance
+
+@attribute CGPA numeric
+@attribute Attendance numeric
+@attribute Submission_Days numeric
+@attribute Teacher_Rating numeric
+@attribute Final_Marks numeric
+@attribute Performance_Class {Excellent,Good,Average,Poor}
+
+@data
+3.9,95,100,4.8,92,Excellent
+3.75,90,105,4.6,89,Excellent
+3.6,88,115,4.7,84,Excellent
+3.45,85,120,4.5,80,Good
+3.3,83,125,4.4,78,Good
+3.2,82,130,4.3,75,Good
+3.1,80,135,4.2,73,Good
+3.0,78,140,4.1,70,Average
+2.95,76,145,4.0,68,Average
+2.85,74,150,3.9,65,Average
+2.75,72,155,3.8,62,Poor
+2.6,70,160,3.7,58,Poor
+3.55,87,118,4.6,83,Excellent
+3.25,81,132,4.3,76,Good
+2.9,75,148,4.0,67,Average
+2.7,73,152,3.8,61,Poor
+3.8,92,102,4.7,90,Excellent
+3.5,86,122,4.5,81,Good
+3.05,79,138,4.2,71,Average
+2.65,71,158,3.7,59,Poor

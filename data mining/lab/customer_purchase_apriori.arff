@@ -1,0 +1,24 @@
+@relation customer_purchase
+
+@attribute Bread {Yes,No}
+@attribute Butter {Yes,No}
+@attribute Milk {Yes,No}
+@attribute Banana {Yes,No}
+@attribute Diaper {Yes,No}
+@attribute Beer {Yes,No}
+@attribute TShirt {Yes,No}
+@attribute Trouser {Yes,No}
+@attribute Bat {Yes,No}
+@attribute Ball {Yes,No}
+
+@data
+Yes,Yes,Yes,No,No,No,No,No,No,No
+Yes,No,Yes,Yes,No,No,No,No,No,No
+No,No,No,No,Yes,Yes,No,No,No,No
+Yes,Yes,No,No,No,No,Yes,Yes,No,No
+No,No,No,No,No,No,No,No,Yes,Yes
+Yes,Yes,Yes,No,No,No,No,No,No,No
+No,No,No,No,Yes,Yes,No,No,No,No
+Yes,No,Yes,Yes,No,No,No,No,No,No
+Yes,Yes,No,No,No,No,Yes,Yes,No,No
+No,No,No,No,No,No,No,No,Yes,Yes
